@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Screen"/>
+    <SwitchPreference
+        android:key="AlwaysKeepScreenOn"
+        android:title="Keep screen on"
+        android:summary="Keep the screen always on when inside the app"/>
+    <!--<PreferenceCategory-->
+        <!--android:title="Theme"/>-->
+    <!--<SwitchPreference-->
+        <!--android:key="DarkTheme"-->
+        <!--android:title="Dark theme"-->
+        <!--android:summary="Enable the dark theme."/>-->
+
+</PreferenceScreen>
